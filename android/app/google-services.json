@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756491478945",
+    "project_id": "urdo-5bae1",
+    "storage_bucket": "urdo-5bae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756491478945:android:f5d7f4ee4ed9e81b8ecde0",
+        "android_client_info": {
+          "package_name": "com.example.urdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylLTkYPe2-rv0PRnS_hoHdZdswFLnjiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
